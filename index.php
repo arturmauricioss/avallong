@@ -10,7 +10,9 @@
 </head>
 <body>
     <section>
-        <header><h1>Aval<span>long</span></h1></header>
+        <header>
+            <h1>Aval<span>long</span></h1>
+        </header>
     </section>
     <aside><p>Aqui deve ter algum texto</p></aside>
     <footer></footer>
