@@ -12,7 +12,7 @@
     <section>
         <header><h1>Avallong</h1></header>
     </section>
-    <aside></aside>
+    <aside><p>Aqui deve ter algum texto</p></aside>
     <footer></footer>
 
 </body>
