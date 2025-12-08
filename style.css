@@ -19,13 +19,14 @@ section{
     width: 100vw;
     height: 45vh;
     background-color: var(--cor_tres);
+    color: var(--cor_um);
 }
-
 
 aside{
     width: 100vw;
     height: 45vh;
     background-color: var(--cor_um);
+    color: var(--cor_cinco);
 }
 footer{
     width: 100vw;
