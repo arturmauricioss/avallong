@@ -14,7 +14,9 @@
             <h1>Aval<span>long</span></h1>
         </header>
     </section>
-    <aside><p>Aqui deve ter algum texto</p></aside>
+    <aside><p>Aqui deve ter algum texto</p>
+<p>Oi, Daniela!</p>
+</aside>
     <footer>2025</footer>
 
 </body>
