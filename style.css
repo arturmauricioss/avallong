@@ -21,6 +21,9 @@ section{
     background-color: var(--cor_tres);
     color: var(--cor_um);
 }
+span{
+    color: var(--cor_cinco);
+}
 
 aside{
     width: 100vw;
