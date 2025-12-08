@@ -3,6 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
-h1{
-    text-align: center;
+:root{
+    --cor_um:#e9dffb;
+    --cor_dois:#905bec;
+    --cor_tres:#5a18c9;
+    --cor_quatro:#300d6e;
+    --cor_cinco:#190934;
+}
+body{
+    background-color: #5A18C9;
+    width: 100vw;
+    height: 100vh;
+}
+section{
+    width: 100vw;
+    height: 45vh;
+    background-color: var(--cor_tres);
+}
+
+
+aside{
+    width: 100vw;
+    height: 45vh;
+    background-color: var(--cor_um);
+}
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color:var(--cor_cinco); 
+    color: var(--cor_dois);
 }

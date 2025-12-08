@@ -9,12 +9,9 @@
 
 </head>
 <body>
-    <header><h1>Avallong</h1></header>
-    <nav></nav>
-    <aside></aside>
     <section></section>
-    <article></article>
+    <aside></aside>
     <footer></footer>
-  
+
 </body>
 </html>
