@@ -15,7 +15,7 @@
         </header>
     </section>
     <aside><p>Aqui deve ter algum texto</p></aside>
-    <footer></footer>
+    <footer>2025</footer>
 
 </body>
 </html>
