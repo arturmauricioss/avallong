@@ -17,14 +17,18 @@
     <section>
         <div class="deck">
         <a href="https://qrcoder-lime.vercel.app/">
+        
         <div class="card" >
-            <img src="assets/img/qrcode.png" alt="QR Code">
+            <div class="img-wrapper">
+                <img src="assets/img/qrcode.png" alt="QR Code">
+                <div class="tech-icons">
+                    <img src="assets/img/html.svg">
+                    <img src="assets/img/css.svg">
+                    <img src="assets/img/js.svg">
+                </div> 
+            </div>   
             <h3><b>QR Code Generator</b></h3> 
-            <div class="tech-icons">
-                <img src="assets/img/html.svg">
-                <img src="assets/img/css.svg">
-                <img src="assets/img/js.svg">
-            </div>       
+            
         </div>
         </a>
         <a href="https://avallonsvg.vercel.app/">
