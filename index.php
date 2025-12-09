@@ -22,10 +22,10 @@
             <h3><b>QR Code Generator</b></h3>         
         </div>
         </a>
-        <a href="https://qrcoder-lime.vercel.app/">
+        <a href="https://avallonsvg.vercel.app/">
         <div class="card" >
-            <img src="assets/img/qrcode.png" alt="QR Code">
-            <h3><b>QR Code Generator</b></h3>         
+            <img src="assets/img/svg.png" alt="QR Code">
+            <h3><b>Editor SVG</b></h3>         
         </div>
         </a>
         <a href="https://qrcoder-lime.vercel.app/">
