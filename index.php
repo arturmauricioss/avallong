@@ -38,7 +38,7 @@
         
         </div>
     </section>
-    <footer>2025</footer>
+    <footer>2025 Avallong</footer>
 
 </body>
 </html>
