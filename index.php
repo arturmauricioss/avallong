@@ -34,18 +34,7 @@
             <h3><b>QR Code Generator</b></h3>         
         </div>
         </a>
-        <a href="https://qrcoder-lime.vercel.app/">
-        <div class="card" >
-            <img src="assets/img/qrcode.png" alt="QR Code">
-            <h3><b>QR Code Generator</b></h3>         
-        </div>
-        </a>
-        <a href="https://qrcoder-lime.vercel.app/">
-        <div class="card" >
-            <img src="assets/img/qrcode.png" alt="QR Code">
-            <h3><b>QR Code Generator</b></h3>         
-        </div>
-        </a>
+ 
         
         </div>
     </section>
