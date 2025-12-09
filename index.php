@@ -24,7 +24,7 @@
                 <div class="tech-icons">
                     <img src="assets/img/html.svg">
                     <img src="assets/img/css.svg">
-                    <img src="assets/img/js.svg">
+                    <img src="assets/img/javascript.svg">
                 </div> 
             </div>   
             <h3><b>QR Code Generator</b></h3> 
