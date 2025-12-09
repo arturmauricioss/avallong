@@ -111,6 +111,27 @@ a{
     opacity: 1;
 }
 
+.tech-icons {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    display: flex;
+    gap: 5px;
+    z-index: 20;
+}
+
+.tech-icons img {
+    width: 22px;
+    height: 22px;
+    opacity: 0.85;
+    transition: opacity .3s ease, transform .3s ease;
+}
+
+.card:hover .tech-icons img {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
 footer{
     width: 100vw;
     height: 10vh;
