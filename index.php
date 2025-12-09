@@ -20,7 +20,7 @@
             
             <div class="card" >
                 <div class="img-wrapper">
-                    <img src="assets/img/qrcode.svg" alt="QR Code">
+                    <img src="assets/img/qrcode.png" alt="QR Code">
                     <div class="tech-icons">
                         <img src="assets/img/html.svg">
                         <img src="assets/img/css.svg">
