@@ -16,34 +16,37 @@
 
     <section>
         <div class="deck">
-        <a href="https://qrcoder-lime.vercel.app/">
-        
-        <div class="card" >
-            <div class="img-wrapper">
-                <img src="assets/img/qrcode.png" alt="QR Code">
-                <div class="tech-icons">
-                    <img src="assets/img/html.svg">
-                    <img src="assets/img/css.svg">
-                    <img src="assets/img/javascript.svg">
-                </div> 
-            </div>   
-            <h3><b>QR Code Generator</b></h3> 
+            <a href="https://qrcoder-lime.vercel.app/">
             
-        </div>
-        </a>
-        <a href="https://avallonsvg.vercel.app/">
-        <div class="card" >
-            <img src="assets/img/svg.png" alt="QR Code">
-            <h3><b>Editor SVG</b></h3>         
-        </div>
-        </a>
-        <a href="https://qrcoder-lime.vercel.app/">
-        <div class="card" >
-            <img src="assets/img/qrcode.png" alt="QR Code">
-            <h3><b>QR Code Generator</b></h3>         
-        </div>
-        </a>
- 
+            <div class="card" >
+                <div class="img-wrapper">
+                    <img src="assets/img/qrcode.png" alt="QR Code">
+                    <div class="tech-icons">
+                        <img src="assets/img/html.svg">
+                        <img src="assets/img/css.svg">
+                        <img src="assets/img/javascript.svg">
+                    </div> 
+                </div>   
+                <h3><b>QR Code Generator</b></h3> 
+                
+            </div>
+            </a>
+<!-- -->
+            <a href="https://avallonsvg.vercel.app/">
+            
+            <div class="card" >
+                <div class="img-wrapper">
+                    <img src="assets/img/svg.png" alt="QR Code">
+                    <div class="tech-icons">
+                        <img src="assets/img/html.svg">
+                        <img src="assets/img/css.svg">
+                        <img src="assets/img/javascript.svg">
+                    </div> 
+                </div>   
+                <h3><b>Editor SVG</b></h3> 
+                
+            </div>
+            </a>
         
         </div>
     </section>

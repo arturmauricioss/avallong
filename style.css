@@ -149,6 +149,7 @@ a{
 footer{
     width: 100vw;
     height: 10vh;
+    text-align: center;
     background-color:var(--cor_cinco); 
     color: var(--cor_dois);
 }
