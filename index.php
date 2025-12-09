@@ -9,14 +9,46 @@
 
 </head>
 <body>
+
+    <header>
+        <h1>Aval<span>long</span></h1>
+    </header>
+
     <section>
-        <header>
-            <h1>Aval<span>long</span></h1>
-        </header>
+        <div class="deck">
+        <a href="https://qrcoder-lime.vercel.app/">
+        <div class="card" >
+            <img src="assets/img/qrcode.png" alt="QR Code">
+            <h3><b>QR Code Generator</b></h3>         
+        </div>
+        </a>
+        <a href="https://qrcoder-lime.vercel.app/">
+        <div class="card" >
+            <img src="assets/img/qrcode.png" alt="QR Code">
+            <h3><b>QR Code Generator</b></h3>         
+        </div>
+        </a>
+        <a href="https://qrcoder-lime.vercel.app/">
+        <div class="card" >
+            <img src="assets/img/qrcode.png" alt="QR Code">
+            <h3><b>QR Code Generator</b></h3>         
+        </div>
+        </a>
+        <a href="https://qrcoder-lime.vercel.app/">
+        <div class="card" >
+            <img src="assets/img/qrcode.png" alt="QR Code">
+            <h3><b>QR Code Generator</b></h3>         
+        </div>
+        </a>
+        <a href="https://qrcoder-lime.vercel.app/">
+        <div class="card" >
+            <img src="assets/img/qrcode.png" alt="QR Code">
+            <h3><b>QR Code Generator</b></h3>         
+        </div>
+        </a>
+        
+        </div>
     </section>
-    <aside><p>Aqui deve ter algum texto</p>
-<p>Oi, Daniela!</p>
-</aside>
     <footer>2025</footer>
 
 </body>
